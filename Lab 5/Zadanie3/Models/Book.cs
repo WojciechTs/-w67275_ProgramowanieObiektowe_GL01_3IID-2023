@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Lab5.Zadanie3.Interface;
 
 namespace Lab5.Zadanie3.Models
 {
